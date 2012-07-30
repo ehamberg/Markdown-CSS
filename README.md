@@ -6,7 +6,7 @@ This is a simple style with normalized defaults, it should work on anything from
 
 Add this to the top of your markdown file
 ```
-<link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
+<link href="https://raw.github.com/ehamberg/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
 ```
 ### Editing
 With Markdown CSS, I decided to base all the size off the body font-size. Simply changing the body font size will also change the heading's size, body width, etc.
